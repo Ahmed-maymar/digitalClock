@@ -1,7 +1,7 @@
 # DigitalClock using arduino uno.
 
 # Tools
-1. Arduinouno.
+1. Arduino uno.
 2. LCD2*16.
 3. Wires.
 4. 1*Resistor320ohm.
